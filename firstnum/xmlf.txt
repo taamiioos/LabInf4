@@ -1,0 +1,55 @@
+<dayName>Четверг</Четверг>
+<lessons>
+  <time>13:30-15:00</time>
+  <weeks></weeks>
+  <weeks>2</weeks>
+  <weeks>4</weeks>
+  <weeks>6</weeks>
+  <weeks>8</weeks>
+  <weeks>10</weeks>
+  <weeks>12</weeks>
+  <weeks>14</weeks>
+  <weeks>16</weeks>
+  <weekInfo>четная неделя</weekInfo>
+  <classroom>2426 ауд.</classroom>
+  <location>Кронверкский пр., д.49, лит.А</location>
+  <subject>ИНФОРМАТИКА(ЛЕК)</subject>
+  <teacher>Болдырева Елена Александровна</teacher>
+  <type>''</type>
+</lessons>
+<lessons>
+  <time>15:20-16:50</time>
+  <weeks></weeks>
+  <weeks>2</weeks>
+  <weeks>4</weeks>
+  <weeks>6</weeks>
+  <weeks>8</weeks>
+  <weeks>10</weeks>
+  <weeks>12</weeks>
+  <weeks>14</weeks>
+  <weeks>16</weeks>
+  <weekInfo>четная неделя</weekInfo>
+  <classroom>2435/4 ауд.</classroom>
+  <location>Кронверкский пр., д.49, лит.А</location>
+  <subject>ИНФОРМАТИКА(ЛАБ)</subject>
+  <teacher>Болдырева Елена Александровна</teacher>
+  <type>Очно - дистанционный</type>
+</lessons>
+<lessons>
+  <time>17:00-18:30</time>
+  <weeks></weeks>
+  <weeks>2</weeks>
+  <weeks>4</weeks>
+  <weeks>6</weeks>
+  <weeks>8</weeks>
+  <weeks>10</weeks>
+  <weeks>12</weeks>
+  <weeks>14</weeks>
+  <weeks>16</weeks>
+  <weekInfo>четная неделя</weekInfo>
+  <classroom>2435/4 ауд.</classroom>
+  <location>Кронверкский пр., д.49, лит.А</location>
+  <subject>ИНФОРМАТИКА(ЛАБ)</subject>
+  <teacher>Болдырева Елена Александровна</teacher>
+  <type>Очно - дистанционны</type>
+</lessons>

@@ -1,0 +1,53 @@
+example:
+  doc: 'Thursday. '
+  lessons1:
+    time: 13:30-15:00
+    weekInfo: chetnaya nedelya
+    classroom: 2426 aud.
+    location: Kronverskyi pr., d.49, lit.A
+    subject: INFORMATICS(LEK)
+    teacher: Boldyreva Elena Aleksandrovna
+    type: ''
+    weeks:
+    - week: '2'
+    - week: '4'
+    - week: '6'
+    - week: '8'
+    - week: '10'
+    - week: '12'
+    - week: '14'
+    - week: '16'
+  lessons2:
+    time: 15:20-16:50
+    weekInfo: chetnaya nedelya
+    classroom: 2435/4 aud.
+    location: Kronverskyi pr., d.49, lit.A
+    subject: INFORMATICS(LAB)
+    teacher: Boldyreva Elena Aleksandrovna
+    type: Ochno-distantsionniy
+    weeks:
+    - week: '2'
+    - week: '4'
+    - week: '6'
+    - week: '8'
+    - week: '10'
+    - week: '12'
+    - week: '14'
+    - week: '16'
+  lessons3:
+    time: 17:00-18:30
+    weekInfo: chetnaya nedelya
+    classroom: 2435/4 aud.
+    location: Kronverskyi pr., d.49, lit.A
+    subject: INFORMATICS(LAB)
+    teacher: Boldyreva Elena Aleksandrovna
+    type: Ochno-distantsionniy
+    weeks:
+    - week: '2'
+    - week: '4'
+    - week: '6'
+    - week: '8'
+    - week: '10'
+    - week: '12'
+    - week: '14'
+    - week: '16'
